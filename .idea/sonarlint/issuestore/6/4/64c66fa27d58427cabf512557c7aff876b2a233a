@@ -1,0 +1,23 @@
+
+C
+java:S1948"(Make "speciesUrls" private or transient.(®É“ûÿÿÿÿ
+@
+java:S1948!"*Make "starshipsUrls" private or transient.(·Ø•Â
+?
+java:S1948$")Make "vehiclesUrls" private or transient.(ŒİÎ­
+>
+java:S1948'"(Make "planetsUrls" private or transient.(Ê»Ê
+F
+java:S1948*"+Make "charactersUrls" private or transient.(‰ôİğúÿÿÿÿ
+g
+java:S1104"QMake title a static final constant or non-public and provide accessors if needed.(Å¬õ
+o
+java:S1104"TMake director a static final constant or non-public and provide accessors if needed.(ğÃ¸ƒüÿÿÿÿ
+o
+java:S1104"TMake producer a static final constant or non-public and provide accessors if needed.(«à½óşÿÿÿÿ
+e
+java:S1104"OMake url a static final constant or non-public and provide accessors if needed.(…åØ
+n
+java:S1104"SMake created a static final constant or non-public and provide accessors if needed.(·şñÁÿÿÿÿÿ
+m
+java:S1104"RMake edited a static final constant or non-public and provide accessors if needed.(èê¯Ğùÿÿÿÿ
